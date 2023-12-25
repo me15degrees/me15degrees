@@ -1,5 +1,3 @@
-<div align="left">
-  
 ### 🇧🇷 Prazer, me chamo Maria! 🇧🇷
 
 Mas na internet você pode me encontrar por `me15degrees`
@@ -8,7 +6,8 @@ Mas na internet você pode me encontrar por `me15degrees`
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" style="padding-right: 20px;"/>
 
-  
+<img height="180em" src="/gifs/ezgif.com-gif-to-mp4-converter.gif">
+
 </div>
 
 ##
