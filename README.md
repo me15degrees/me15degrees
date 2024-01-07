@@ -4,13 +4,13 @@ Mas na internet você pode me encontrar por `me15degrees`
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" style="padding-right: 20px;"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&theme=bear&hide_border=true&count_private=true&include_all_commits=true" style="padding-right: 20px;"/>
 
 <img height="180em" src="/gifs/ezgif.com-gif-to-mp4-converter.gif">
 
 </div>
 <div align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me15degrees&layout=compact&theme=dark&hide_border=true&langs_count=8"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me15degrees&layout=compact&theme=bear&hide_border=true&langs_count=8"/>
 </div>
 
 ##
