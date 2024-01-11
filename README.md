@@ -8,11 +8,8 @@ Mas na internet você pode me encontrar por `me15degrees`
 
 <img height="180em" src="/gifs/ezgif.com-gif-to-mp4-converter.gif">
 
-</div>
-<div align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me15degrees&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
-</div>
 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gbpagano&theme=dracula&hide_border=true&background=00000000&card_width=850"/>
 ##
 
 <div align="left">
