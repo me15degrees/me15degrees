@@ -8,9 +8,6 @@ Mas na internet você pode me encontrar por `me15degrees`
 
 <img height="180em" src="/gifs/ezgif.com-gif-to-mp4-converter.gif">
 
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=me15degrees&theme=bear&hide_border=true&background=00000000&card_width=850"/>
-
 ##
 
 <div align="left">
