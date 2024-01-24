@@ -4,14 +4,14 @@ Mas na internet você pode me encontrar por `me15degrees`
 
 <div align="center">
   
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&theme=bear&bg_color=00000000&&hide_border=true&count_private=true&include_all_commits=true" style="padding-right: 20px;"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&theme=dracula&bg_color=00000000&&hide_border=true&count_private=true&include_all_commits=true" style="padding-right: 20px;"/>
 
 <img height="180em" src="/gifs/ezgif.com-gif-to-mp4-converter.gif">
 
 <div align="center">
   
-<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me15degrees&layout=compact&theme=bear&bg_color=00000000&hide_border=true&langs_count=8&hide_title=false"/>
-<img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=me15degrees&theme=bear&hide_border=true&background=00000000&card_width=600"/>
+<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me15degrees&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&langs_count=8&hide_title=false"/>
+<img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=me15degrees&theme=dracula&hide_border=true&background=00000000&card_width=600"/>
     
 ##
 
