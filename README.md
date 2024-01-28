@@ -1,34 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=32&duration=5016&pause=1000&color=C7DDDD&center=true&multiline=true&random=false&width=1000&lines=Prazer%2C+me+chamo+Maria,)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C7DDDD&height=120&section=header"/>
 
- <div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=38&duration=5016&pause=1000&color=C7DDDD&center=true&multiline=true&random=false&width=1000&lines=Prazer%2C+me+chamo+Maria)](https://git.io/typing-svg)
+
+ <div align="left">
    
  Mas na internet você pode me encontrar por `me15degrees`
   
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&theme=dracula&bg_color=00000000&&hide_border=true&count_private=true&include_all_commits=true" style="padding-right: 20px;"/>
+- [x] Faço engenharia biomédica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica);
 
-<img height="180em" src="/gifs/ezgif.com-gif-to-mp4-converter.gif">
+- [x] Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não;
 
-<div align="center">
-  
-<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me15degrees&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&langs_count=8&hide_title=false"/>
-<img height="148em" src="https://github-readme-streak-stats.herokuapp.com/?user=me15degrees&theme=dracula&hide_border=true&background=00000000&card_width=600"/>
-    
+- [x] Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional.
+
 ##
 
-<div align="left">
+ <div align="center">
   
-Faço engenharia biomédica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica);
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&title_color=C7DDDD&bg_color=00000000&theme=nord&hide_border=true&count_private=true&include_all_commits=true" style="padding-right: 20px;"/>
 
-Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não;
+<img height="210em" src="/gifs/ezgif.com-gif-to-mp4-converter.gif">
 
-Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional.
+<div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=me15degrees&theme=nord&hide_border=true&card_width=600&background=00000000)](https://git.io/streak-stats)
+</div>
+
+##
   
 <div align="center">
 
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Python](https://img.shields.io/badge/python-363636?style=for-the-badge&logo=python&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-363636?logo=arch-linux&logoColor=white&style=for-the-badge)
+![Duolingo](https://img.shields.io/badge/Duolingo-363636?style=for-the-badge&logo=Duolingo&logoColor=white)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C7DDDD&height=120&section=footer"/>
