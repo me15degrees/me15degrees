@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C7DDDD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=38&duration=5016&pause=1000&color=C7DDDD&center=true&multiline=true&random=false&width=1000&lines=Prazer%2C+me+chamo+Maria)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Reenie+Beanie&size=40&duration=5016&pause=1000&color=C7DDDD&center=true&multiline=true&random=false&width=1000&lines=Prazer%2C+me+chamo+Maria)](https://git.io/typing-svg)
 
  <div align="left">
    
  Mas na internet você pode me encontrar por `me15degrees`
   
-- [x] Faço engenharia biomédica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica);
+-  Faço engenharia biomédica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica);
 
-- [x] Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não;
+-  Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não;
 
-- [x] Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional.
+-  Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional.
 
 ##
 
