@@ -20,11 +20,11 @@
 
   <div align="left">   
   
--  Faço engenharia biomédica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica);
+-  Faço engenharia biomédica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica)
 
--  Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não;
+-  Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não
 
--  Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional.
+-  Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional
 
 ##
 <div align="center">
