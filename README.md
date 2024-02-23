@@ -12,6 +12,8 @@
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=me15degrees&show_icons=true&title_color=C7DDDD&bg_color=00000000&theme=nord&hide_border=true&count_private=true&include_all_commits=true"/>
 
+<img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me15degrees&layout=compact&title_color=C7DDDD&text_color=C7DDDD&bg_color=00000000&hide_border=true&langs_count=8&hide_title=false"/>
+
 <img height="178em" src="https://github-readme-streak-stats.herokuapp.com?user=me15degrees&theme=nord&hide_border=true&card_width=600&background=00000000"/>
 
 </div>
