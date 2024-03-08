@@ -6,7 +6,6 @@
   
 ##
 
-
   
 <div style="display: flex; align-items: center; justify-content: center;">
 
@@ -28,6 +27,12 @@
 
 -  Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional
 
+<div align="right">
+  <p>
+    <sup>i use arch btw</sup>
+  </p>
+</div>
+
 ##
 <div align="center">
 
@@ -35,3 +40,5 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-363636?logo=arch-linux&logoColor=white&style=for-the-badge)
 ![Duolingo](https://img.shields.io/badge/Duolingo-363636?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-363636?style=for-the-badge&logo=linux&logoColor=white)
+
+
