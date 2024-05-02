@@ -25,7 +25,7 @@
 
 -  Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não
 
--  Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade-bb0b86213/) para parecer profissional
+-  Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/) para parecer profissional
 
 <div align="right">
   <p>
