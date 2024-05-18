@@ -21,7 +21,7 @@
 
   <div align="left">   
   
--  Faço engenharia biomédica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica)
+-  Faço engenharia elétrica na [Universidade Federal de Uberlândia](https://www.feelt.ufu.br/graduacao/engenharia-biomedica)
 
 -  Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não
 
