@@ -21,11 +21,11 @@
 
   <div align="left">   
   
--  Faço engenharia elétrica na [Universidade Federal de Uberlândia](http://www.feelt.ufu.br/graduacao/engenharia-eletrica)
+- Electrical engineering student at UFU, programming trainee at Roboforge, and researcher in the field of phantoms
 
--  Gosto de Red Hot Chili Peppers, 🍣, Duolingo e programar coisas que são úteis...ou não
+-  Linux user and a big fan of open source stuff :P
 
--  Tenho um [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/) para parecer profissional
+-  You can find me at [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/) 
 
 <div align="right">
   <p>
