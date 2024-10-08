@@ -21,11 +21,11 @@
 
   <div align="left">   
   
-- Electrical engineering student at UFU, programming trainee at Roboforge, and researcher in the field of phantoms
-
--  Linux user and a big fan of open source stuff :P
-
--  You can find me at [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/) 
+- Estudante de Engenharia Elétrica na UFU;
+-  Pesquisadora PIBIC na área de simulações computacionais de fantomas humanos;
+-  Usuária de linux e fã de coisas open source;
+- Programadora na Roboforge (equipe de robótica da FACOM-UFU);
+-  Você me econtra no [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/).
 
 <div align="right">
   <p>
