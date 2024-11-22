@@ -22,7 +22,7 @@
   <div align="left">   
   
 - Estudante de Engenharia Elétrica na UFU;
--  Pesquisadora PIBIC na área de simulações computacionais de fantomas humanos;
+-  Pesquisadora PIBIC;
 -  Usuária de linux e fã de coisas open source;
 - Programadora na Roboforge (equipe de robótica da FACOM-UFU);
 -  Você me econtra no [LinkedIn](https://www.linkedin.com/in/maria-eduarda-nascimento-andrade/).
@@ -32,8 +32,6 @@
     <sup>i use arch btw</sup>
   </p>
 </div>
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/me15degrees/me15degrees&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 ##
 <div align="center">
